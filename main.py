@@ -12,7 +12,7 @@ USERNAME = os.environ.get("coolestpanda2018@gmail.com")
 PASSWORD = os.environ.get("SWaMaba2010")
 PIN = os.environ.get("8190")
 SECRET_KEY = os.environ.get("Yes")
-VEHICLE_ID = os.environ.get("VEHICLE_ID")  # Optional
+VEHICLE_ID = os.environ.get("KNDC44LAXP5117742")  # Optional
 
 missing = []
 if not USERNAME:
